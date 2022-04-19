@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshsharma21
-- 👀 I’m interested in Web Devlopment and UI/UX Design
-- 🌱 I’m currently learning Web devlopment and Designing
+- 👀 I’m interested in Web Devlopment and Python Devlopment
+- 🌱 I’m currently learning Mobile app devlopment and polishing previous learned skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyuindia4@gmail.com
 
