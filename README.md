@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Priyanshsharma21
-- 👀 I’m interested in Web Devlopment and Python Devlopment
-- 🌱 I’m currently learning Mobile app devlopment and polishing previous learned skills
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Devlopment, Python Devlopment and Mobile App (Android & IOS) development.
+- 💞️ I also work as freelancer.
 - 📫 How to reach me piyuindia4@gmail.com
 
 <!---
