@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanshsharma21
-- 👀 I’m a Web Devlopment, Python Devlopment and Mobile App (Android & IOS) development.
+- 👀 I’m a MERN & MEVN Stack Web Devlopment,I Make Web More Fun Using Three.js & GSAP. React Native Mobile App (Android & IOS) Developer.
 - 📽️ I create Full Stack Content and teach other's programming with the help of my project video's.
 - 💞️ I also work as freelancer.
 - 📫 How to reach me piyuindia4@gmail.com
