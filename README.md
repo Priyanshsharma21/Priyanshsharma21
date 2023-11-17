@@ -13,6 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://app.daily.dev/Priyansh_sharma"><img src="https://api.daily.dev/devcards/5d80ba04c15e4460b1ac662e843ad315.png?r=m1t" width="400" alt="Priyansh Sharma's Dev Card"/></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Priyanshsharma21.visitor-badge)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=priyansh-sharma-7b9520223.visitor-badge)
+![](https://komarev.com/ghpvc/?username=Priyanshsharma21&color=DC7D11)
 
