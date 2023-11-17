@@ -1,6 +1,5 @@
-
 # 👋 Hi, I’m @Priyanshsharma21
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Priyanshsharma21}.${your.repo.id})
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Priyanshsharma21.visitor-badge)
 
 - 👀 I’m a MERN & MEVN Stack Web Devlopment,I Make Web More Fun Using Three.js & GSAP. React Native Mobile App (Android & IOS) Developer.
 - 📽️ I create Full Stack Content and teach other's programming with the help of my project video's.
